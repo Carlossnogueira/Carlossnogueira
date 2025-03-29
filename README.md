@@ -29,10 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=12&layout=compact&theme=radical" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=12&layout=compact&theme=gruvbox" />
   </a>
 </div>
 </br>
@@ -40,7 +40,7 @@
 </br>
 <p align="center">
 <h2 align="center">🚀 "Não desistir é indispensável!"</h2>
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Carlossnogueira&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Carlossnogueira&data=followers,repositories,stars,commits&theme=gruvbox&title_color=000000">
 
 </br>
 </br>
