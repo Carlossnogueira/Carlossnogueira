@@ -32,7 +32,7 @@
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsalete&langs_count=12&layout=compact&theme=gruvbox" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=gruvbox" />
   </a>
 </div>
 </br>
