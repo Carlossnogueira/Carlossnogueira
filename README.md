@@ -6,7 +6,9 @@
 
 ## 🙋 Sobre Mim
 🌟 Atualmente, estou focado nos estudos e em busca de uma oportunidade na área de desenvolvimento. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
+
 📚 Estou aprimorando meus conhecimentos em Node.js, Flask e MySQL, além de utilizar Java para aprofundar conceitos de programação.
+
 🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimento em redes e segurança da informação.
 </br>
 
