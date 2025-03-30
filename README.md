@@ -14,7 +14,7 @@
 
 
 </br>
-<h2 align="center">🗃️ Técnologias que estou estudando e utlizando:</h2>
+<h2 align="center">🗃️ Técnologias que estou estudando e utilizando:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
