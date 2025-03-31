@@ -7,7 +7,7 @@
 ## 🙋 Sobre Mim
 🌟 Atualmente, estou focado nos estudos e em busca de uma oportunidade na área de desenvolvimento. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-📚 Estou aprimorando meus conhecimentos em Node.js, Flask e MySQL, além de utilizar Java para aprofundar conceitos de programação.
+📚 Estou aprimorando meus conhecimentos em Django, Flask e MySQL.
 
 🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimento em redes e segurança da informação.
 </br>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,java,mysql,git,github,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,mysql,git,github,windows,linux" />
   </a>
 </p>
 </br>
