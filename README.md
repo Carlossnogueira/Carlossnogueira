@@ -4,12 +4,16 @@
 
 </br>
 
-## 🙋 Sobre Mim
+## 🙋 Sobre Mim:
 🌟 Atualmente, estou focado nos estudos e em busca de uma oportunidade na área de desenvolvimento. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
-
+</br>
+🐍 Minha linguagem favorita é Python, mas já tive contato C#, PHP, C e especialmente o Java.
+</br>
 📚 Estou aprimorando meus conhecimentos em Django, Flask e MySQL.
-
-🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimento em redes e segurança da informação.
+</br>
+🚀 Pretendo criar mais APIs e outros sistemas com PHP e talvez com Java ou .NET.
+</br>
+🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimentos em desenvolvimento web e segurança.
 </br>
 
 
@@ -18,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,mysql,git,github,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,mysql,git,github,windows,vscode,pycharm" />
   </a>
 </p>
 </br>
