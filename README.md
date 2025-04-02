@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6400&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+😊;Desenvolvedor+Backend+🛜;Utilizando+Python+e+Javascript!+🤓" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6400&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+😊;Desenvolvedor+Backend!+🛜;Utilizando+Python+e+Javascript!+🤓" />
 </p>
 
 </br>
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,mysql,git,github,windows,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,dotnet,mysql,git,github,windows,vscode,pycharm" />
   </a>
 </p>
 </br>
