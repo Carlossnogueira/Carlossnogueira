@@ -7,11 +7,11 @@
 ## 🙋 Sobre Mim:
 🌟 Atualmente, estou focado nos estudos e em busca de uma oportunidade na área de desenvolvimento. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
 </br>
-🐍 Minha linguagem favorita é Python, mas já tive contato C#, PHP, C e especialmente o Java.
+🐍 Minha linguagem favorita é Python, mas já tive contato PHP, C e especialmente o Java e C#.
 </br>
 📚 Estou aprimorando meus conhecimentos em Django, Flask e MySQL.
 </br>
-🚀 Pretendo criar mais APIs e outros sistemas com PHP e talvez com Java ou .NET.
+🚀 Pretendo criar mais APIs e outros sistemas com .Net além do Django e Flask.
 </br>
 🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimentos em desenvolvimento web e segurança.
 </br>
