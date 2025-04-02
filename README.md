@@ -18,11 +18,11 @@
 
 
 </br>
-<h2 align="center">🗃️ Técnologias que estou estudando e utilizando:</h2>
+<h2 align="center">🗃️ Técnologias e Ferramentas que estou estudando e utilizando:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,dotnet,mysql,git,github,windows,vscode,pycharm" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,dotnet,mysql,git,github,windows,vscode,visualstudio,pycharm" />
   </a>
 </p>
 </br>
