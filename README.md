@@ -9,9 +9,9 @@
 </br>
 🐍 Minha linguagem favorita é Python, mas já tive contato PHP, C e especialmente o Java e C#.
 </br>
-📚 Estou aprimorando meus conhecimentos em Django, Flask e MySQL.
+📚 No momento aprimorando meus conhecimentos em Flask e MySQL.
 </br>
-🚀 Pretendo criar mais APIs e outros sistemas com .Net além do Django e Flask.
+🚀 Pretendo criar mais APIs e outros sistemas com .Net além do Flask.
 </br>
 🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimentos em desenvolvimento web e segurança.
 </br>
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,dotnet,mysql,git,github,windows,vscode,visualstudio,pycharm" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,dotnet,mysql,git,github,windows,vscode,visualstudio,pycharm"/>
   </a>
 </p>
 </br>
