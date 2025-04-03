@@ -44,7 +44,10 @@
 </br>
 <p align="center">
 <h2 align="center">🚀 "Não desistir é indispensável!"</h2>
+
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlossnogueira&show_icons=true&theme=gruvbox" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+</div>
 
 </br>
 </br>
