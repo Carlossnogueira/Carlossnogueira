@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,django,dotnet,mysql,git,github,windows,vscode,visualstudio,pycharm"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,cs,dotnet,mysql,git,github,postman,windows,vscode,visualstudio,figma"/>
   </a>
 </p>
 </br>
@@ -56,6 +56,11 @@
 
 </p>
 </br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlossnogueira&show_icons=true&theme=gruvbox" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+</div>
+</p>
 
 
 
