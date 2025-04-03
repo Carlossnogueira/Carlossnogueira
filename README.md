@@ -44,7 +44,7 @@
 </br>
 <p align="center">
 <h2 align="center">🚀 "Não desistir é indispensável!"</h2>
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Carlossnogueira&data=followers,repositories,stars,commits&theme=gruvbox&title_color=000000">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlossnogueira&show_icons=true&theme=gruvbox" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 
 </br>
 </br>
@@ -56,11 +56,13 @@
 
 </p>
 </br>
+</br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlossnogueira&show_icons=true&theme=gruvbox" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Carlossnogueira&data=followers,repositories,stars,commits&theme=gruvbox&title_color=000000">
 </div>
 </p>
+
 
 
 
