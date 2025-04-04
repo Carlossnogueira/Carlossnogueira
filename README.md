@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6400&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+😊;Desenvolvedor+Backend!+🛜;Utilizando+Python+e+Javascript!+🤓" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000ff&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+😊;Desenvolvedor+Backend!+🛜;Utilizando+Python+e+Javascript!+🤓" />
 </p>
 
 </br>
@@ -33,10 +33,10 @@
 
 <div align="center">
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=gruvbox" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=github_dark" />
   </a>
 </div>
 </br>
@@ -46,7 +46,7 @@
 <h2 align="center">🚀 "Não desistir é indispensável!"</h2>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlossnogueira&show_icons=true&theme=gruvbox" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlossnogueira&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 </div>
 
 </br>
@@ -62,7 +62,7 @@
 </br>
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Carlossnogueira&data=followers,repositories,stars,commits&theme=gruvbox&title_color=000000">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Carlossnogueira&data=followers,repositories,stars,commits&theme=github_dark&title_color=000000">
 </div>
 </p>
 
