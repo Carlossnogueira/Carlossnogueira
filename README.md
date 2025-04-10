@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000ff&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+😊;Desenvolvedor+Backend!+👨‍💻;Utilizando+Java+com+Spring!+☕" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000ff&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+😊;Desenvolvedor+Backend!+👨‍💻;Aprendendo+mais+do+mundo+.NET+🚀"/>
 </p>
 
 </br>
@@ -7,9 +7,9 @@
 ## 🙋 Sobre Mim:
 🌟 Atualmente, estou focado nos estudos e em busca de uma oportunidade na área de desenvolvimento. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
 </br>
-☕ Minhas linguagens favoritas são **Java** e **Python**, utilizo também o JavaScript como complemento. 
+☕ Minhas linguagens favoritas são **C#** e **Python**, utilizo também o JavaScript como complemento. 
 </br>
-📚 No momento aprimorando meus conhecimentos em Java e Spring, utilizo Python unicamente para projetos pessoais.
+📚 No momento aprimorando meus conhecimentos em C#, utilizo Python unicamente para projetos pessoais.
 </br>
 🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimentos em desenvolvimento web.
 </br>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,html,css,mysql,github,postman,windows,vscode"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,javascript,html,css,mysql,github,postman,windows,vscode"/>
   </a>
 </p>
 </br>
