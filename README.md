@@ -9,7 +9,7 @@
 </br>
 ☕ Minhas linguagens favoritas são **C#** e **Python**, utilizo também o JavaScript como complemento. 
 </br>
-📚 No momento aprimorando meus conhecimentos em C#, utilizo Python unicamente para projetos pessoais.
+📚 No momento aprimorando meus conhecimentos em Python e C#.
 </br>
 🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimentos em desenvolvimento web.
 </br>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,javascript,html,css,mysql,github,postman,windows,vscode"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,django,javascript,html,css,mysql,github,postman,windows,vscode"/>
   </a>
 </p>
 </br>
