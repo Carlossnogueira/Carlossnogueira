@@ -11,7 +11,7 @@
 </br>
 💻 Minha principal linguagem é o **JavaScript** e **TypeScript**, que utilizo para o desenvolvimento de APIs e sistemas web. Também utilizo Python e já tive contato com C# e Java.
 </br>
-🚀 Atualmente, estou me aprofundando no **back-end** com **Nodejs**, criando sistemas web completos.
+🚀 Atualmente, estou me aprofundando no com **Nodejs**, criando sistemas web completos, além de construir telas responsivas e funcionais com **React** e **Html/Css** puro.
 </br>
 🎯 Meu foco é desenvolver aplicações robustas, com back-end bem estruturado e interfaces funcionais.
 </br>
