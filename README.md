@@ -1,26 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000ff&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+😊;Desenvolvedor+Backend!+👨‍💻;Aprendendo+mais+do+mundo+.NET+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=CCA9DD&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+😊;Desenvolvedor+Backend!+👨‍💻;Aprendendo+mais+do+mundo+.NET+🚀"/>
 </p>
 
 </br>
 
-## 🙋 Sobre Mim:
-🌟 Atualmente, estou focado nos estudos e em busca de uma oportunidade na área de desenvolvimento. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
-</br>
-☕ Minhas linguagens favoritas são **C#** e **Python**, utilizo também o JavaScript como complemento. 
-</br>
-📚 No momento aprimorando meus conhecimentos em Python e C#.
-</br>
-🎯 Meu objetivo é desenvolver sistemas completos e expandir meu conhecimentos em desenvolvimento web.
+## 👋 Sobre Mim
 </br>
 
-
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento.
 </br>
-<h2 align="center">🗃️ Técnologias e Ferramentas que estou estudando e utilizando:</h2>
+💻 Minha principal linguagem é o **Python**, que utilizo para o desenvolvimento de APIs e sistemas web. Também utilizo JavaScript e já tive contato com C# e Java para complementar meu aprendizado.
+</br>
+🚀 Atualmente, estou me aprofundando no **back-end** com **Python**, criando sistemas web completos, além de estudar automações e preparar meu caminho para trabalhar com **Node.js** futuramente.
+</br>
+🎯 Meu foco é desenvolver aplicações robustas, com back-end bem estruturado e interfaces funcionais.
+</br>
+🎮 Nas horas vagas, exploro o desenvolvimento de jogos digitais como hobby, unindo criatividade e programação.
+</br>
+</br>
+<h2 align="center">🃏 Técnologias e Ferramentas que estou estudando e utilizando:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,django,javascript,html,css,mysql,github,postman,windows,vscode"/>
+    <img src="https://skillicons.dev/icons?i=python,flask,django,javascript,nodejs,typescript,html,css,mysql,sqlite,github,postman,windows,vscode,godot"/>
   </a>
 </p>
 </br>
