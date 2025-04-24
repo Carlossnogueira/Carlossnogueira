@@ -9,9 +9,9 @@
 
 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento.
 </br>
-💻 Minha principal linguagem é o **JavaScript** e **TypeScript**, que utilizo para o desenvolvimento de APIs e sistemas web. Também utilizo Python e já tive contato com C# e Java.
+💻 Minha principal linguagem é o **JavaScript** e **TypeScript**, que utilizo para o desenvolvimento de APIs e para utilização de frameworks front-end. Uso *C#* como uma segunda opção para desenvolvimento.
 </br>
-🚀 Atualmente, estou me aprofundando no com **Nodejs**, criando sistemas web completos, além de construir telas responsivas e funcionais com **React** e **Html/Css** puro.
+🚀 Atualmente, estou me aprofundando no com **Nodejs**, criando sistemas web completos, além de construir telas responsivas e funcionais com **React** e **Html/CSS** puro.
 </br>
 🎯 Meu foco é desenvolver aplicações robustas, com back-end bem estruturado e interfaces funcionais.
 </br>
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,react,html,css,mysql,github,postman,windows,vscode,godot"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,nodejs,nestjs,react,html,css"/>
   </a>
 </p>
 </br>
