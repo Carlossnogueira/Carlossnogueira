@@ -7,20 +7,20 @@
 ## 👋 Sobre Mim
 </br>
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento.
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento. Pretendo me especializar em segurança futuramente.
 </br>
-💻 Minha principal linguagem é o **CSharp** e **JavaScript**, onde utilizo Csharp para o backend e Javascript para o frontend.
+💻 Minha principal linguagem é o **JavaScript** e **Typescript**, mas não me limito a apenas elas.
 </br>
-🚀 Atualmente, estou me aprofundando no ecosistema **.Net**, criando sistemas web completos, além de construir telas responsivas e funcionais com **Bootstrap** e **Angular**.
+🚀 Atualmente, estou me aprofundando no ecosistema **NodeJs**, criando sistemas web completos.
 </br>
-🎯 Meu foco é desenvolver aplicações robustas, com backend bem estruturado e funcional.
+🎯 Meu foco é desenvolver aplicações web com backend bem estruturado e funcional.
 </br>
 </br>
-<h2 align="center">🃏 Técnologias e Ferramentas que estou estudando e utilizando:</h2>
+<h2 align="center">🛠️ Técnologias e Ferramentas que estou estudando e utilizando:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,html,css,bootstrap,angular"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,html,css"/>
   </a>
 </p>
 </br>
