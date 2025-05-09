@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=c8342e&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+👋;Desenvolvedor+Web!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=c8342e&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+👋;Desenvolvedor+Web+e+Desktop+!"/>
 </p>
 
 </br>
@@ -16,11 +16,11 @@
 🎯 Meu foco é desenvolver aplicações bem estruturadas e funcionais.
 </br>
 </br>
-<h2 align="center">🛠️ Técnologias que estou aprendendo:</h2>
+<h2 align="center">🛠️ Técnologias que estou aprendendo e utilizando:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,html,css"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,html,css,visualstudio,vscode,windows"/>
   </a>
 </p>
 </br>
