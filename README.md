@@ -9,9 +9,9 @@
 
 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento. 
 </br>
-💻 Minha principal linguagem é o **Csharp**, mas não me limito a apenas ela.
+💻 Minhas principais linguagens são **TypeScript** e **Csharp**, mas não me limito a apenas elas.
 </br>
-🚀 Atualmente, estou me aprofundando no ecosistema **.NET**, criando sistemas web completos.
+🚀 Atualmente, estou me aprofundando no ecosistema **NodeJs**, criando sistemas web completos.
 </br>
 🎯 Meu foco é desenvolver aplicações bem estruturadas e funcionais.
 </br>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,html,css,angular,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,nodejs,prisma,html,css,react"/>
   </a>
 </p>
 </br>
