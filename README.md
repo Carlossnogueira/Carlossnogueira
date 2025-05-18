@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+👋;Desenvolvedor+Web+e+Desktop+!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+a+Carlos+Nogueira!+👋;Desenvolvedor+Web+!"/>
 </p>
 
 </br>
@@ -9,7 +9,7 @@
 
 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento. 
 </br>
-💻 Minhas principais linguagens são **TypeScript** e **Csharp**, mas não me limito a apenas elas.
+💻 Minha linguagem principal é **JavaScript**/**TypeScript**. Utilizo também o **C#** quando é nescessário.
 </br>
 🚀 Atualmente, estou me aprofundando no ecosistema **NodeJs**, criando sistemas web completos.
 </br>
@@ -20,7 +20,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,nodejs,prisma,html,css,react"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,prisma,mongodb,mysql,docker"/></br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,vite"/></br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet"/></br>
   </a>
 </p>
 </br>
