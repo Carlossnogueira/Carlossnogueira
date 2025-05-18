@@ -5,17 +5,15 @@
 </br>
 
 ## 👋 Sobre Mim
+
+</br>
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento. </br>
+💻 Minha linguagem principal é JavaScript/TypeScript. Utilizo também C# quando necessário. </br>
+🚀 Estou me aprofundando no ecossistema Node.js, criando sistemas web completos.  </br>
+🎯 Meu foco é desenvolver aplicações bem estruturadas, seguindo boas práticas de desenvolvimento.  </br>
+🌟 Atualmente, estou em busca de uma oportunidade como desenvolvedor backend júnior, remoto ou híbrido.  </br>
 </br>
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento. 
-</br>
-💻 Minha linguagem principal é **JavaScript**/**TypeScript**. Utilizo também o **C#** quando é nescessário.
-</br>
-🚀 Atualmente, estou me aprofundando no ecosistema **NodeJs**, criando sistemas web completos.
-</br>
-🎯 Meu foco é desenvolver aplicações bem estruturadas e funcionais.
-</br>
-</br>
 <h2 align="center">🛠️ Técnologias que estou aprendendo e utilizando:</h2>
 
 <p align="center">
