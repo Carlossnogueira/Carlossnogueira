@@ -48,33 +48,13 @@
 </br>
 </br>
 </br>
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 
-</p>
-</br>
 </br>
 
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Carlossnogueira&data=followers,repositories,stars,commits&theme=github_dark&title_color=000000">
 </div>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
