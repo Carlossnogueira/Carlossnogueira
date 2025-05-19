@@ -8,8 +8,8 @@
 
 </br>
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento. </br>
-💻 Minha linguagem principal é JavaScript/TypeScript. Utilizo também C# quando necessário. </br>
-🚀 Estou me aprofundando no ecossistema Node.js, criando sistemas web completos.  </br>
+💻 Minha linguagem principal é o C#. Utilizo também JavaScript e TypeScript. </br>
+🚀 Estou me aprofundando no ecossistema .NET, criando sistemas web completos.  </br>
 🎯 Meu foco é desenvolver aplicações bem estruturadas, seguindo boas práticas de desenvolvimento.  </br>
 🌟 Atualmente, estou em busca de uma oportunidade como desenvolvedor backend júnior, remoto ou híbrido.  </br>
 </br>
@@ -18,9 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,prisma,mongodb,mysql,docker"/></br>
-    <img src="https://skillicons.dev/icons?i=html,css,react,vite"/></br>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet"/></br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,docker,javascript,typescript,nodejs,html,css,angular"/>
   </a>
 </p>
 </br>
