@@ -7,18 +7,19 @@
 ## 👋 Sobre Mim
 
 </br>
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), dedicado aos estudos e em busca de uma oportunidade na área de desenvolvimento. </br>
-💻 Minha linguagem principal é o C#. Utilizo também JavaScript e TypeScript. </br>
-🚀 Estou me aprofundando no ecossistema .NET, criando sistemas web completos.  </br>
-🎯 Meu foco é desenvolver aplicações bem estruturadas, seguindo boas práticas de desenvolvimento.  </br>
-🌟 Atualmente, estou em busca de uma oportunidade como desenvolvedor backend júnior, remoto ou híbrido.  </br>
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em transformar ideias em aplicações web funcionais e intuitivas. </br>
+💻 Minhas principais linguagens são JavaScript e TypeScript, com foco atual no desenvolvimento frontend. </br>
+🎨 Tenho prazer em criar interfaces bem estruturadas, modernas e responsivas, utilizando ferramentas como React, Tailwind CSS. </br> 
+🧠 Também possuo conhecimento em backend com Node.js, utilizando Fastify, Prisma, SQL e MongoDB, o que me permite trabalhar de forma fullstack sempre que necessário. </br>
+🚀 Busco constantemente aplicar boas práticas de desenvolvimento e evoluir através de projetos próprios e desafios técnicos. </br>
+🌟 Atualmente, estou em busca de uma oportunidade como desenvolvedor frontend júnior, remoto ou híbrido, com abertura para atuar como fullstack conforme a demanda. </br>
 </br>
 
 <h2 align="center">🛠️ Técnologias que estou aprendendo e utilizando:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,docker,javascript,typescript,nodejs,html,css,angular"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,vite,sass,nodejs,express,mongodb,mysql,figma"/>
   </a>
 </p>
 </br>
