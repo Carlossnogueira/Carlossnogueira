@@ -17,6 +17,7 @@
 
 <h2 align="center">🛠️ Técnologias que estou aprendendo e utilizando:</h2>
 
+</br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,vite,sass,nodejs,express,nestjs,mongodb,mysql,prisma,figma"/>
@@ -25,7 +26,6 @@
 </br>
 
 
-</br>
 <h2 align="center">📊 Meus Status:</h2>
 
 <div align="center">
