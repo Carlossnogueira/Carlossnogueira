@@ -7,28 +7,28 @@
 ## 👨‍💻 Sobre Mim
 </br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-FF6F00?logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+ <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
 </p>
 
 </br>
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por transformar ideias em aplicações web modernas, funcionais e bem estruturadas. </br>
-💻 Atuo como desenvolvedor fullstack, utilizando Python com Django ou Flask no backend e React no frontend para criar soluções escaláveis e eficientes. </br>
-🛠️ Tenho experiência com PostgreSQL e bancos de dados relacionais, trabalhando com ORMs utilizando o SQLAlchemy para uma modelagem consistente e orientada a objetos. </br>
+💻 Atuo como desenvolvedor fullstack, utilizando NodeJs no backend e React no frontend para criar soluções escaláveis e eficientes. </br>
+🛠️ Tenho experiência com PostgreSQL, bancos de dados relacionais e não relacionais. </br>
 🧠 Gosto de explorar boas práticas de desenvolvimento, testes e organização de código, sempre buscando entregar valor com qualidade.</br>
 🚀 Estou em constante evolução, aprendendo por meio de projetos práticos, desafios técnicos e colaboração em equipe. </br>
-🌟 Atualmente, busco uma oportunidade como desenvolvedor fullstack júnior, com foco em Python ou JavaScript.
+🌟 Atualmente, busco uma oportunidade como desenvolvedor fullstack júnior.
 </br>
 
 </br>
