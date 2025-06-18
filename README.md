@@ -16,13 +16,13 @@ I'm a passionate and motivated web developer with a strong focus on building sca
   - TypeScript | Java
   - HTML | CSS 
   - Node.js | Spring  
-  - React.js  
+  - Aungular | VUE  
   - SQL | NoSQL
 
 </br>
 
 ### 📖 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,nodejs,mysql,react,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,html,css,nodejs,mysql,angular,vue,java,spring)](https://skillicons.dev)
 
 </br>
 
