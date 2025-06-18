@@ -9,23 +9,25 @@
 I'm a passionate and motivated web developer with a strong focus on building scalable and maintainable applications.
 
 - 🌎 I'm from Brazil  
-- 💻 I'm a Systems Development student  
+- 💻 I'm a Systems Development student
+- 🛡 Digital security enthusiast  
 - 📚 Basic English level  
 - 💭 Ask me about:  
-  - HTML | CSS | JavaScript | TypeScript  
-  - Node.js | PHP  
+  - TypeScript | Java
+  - HTML | CSS 
+  - Node.js | Spring  
   - React.js  
   - SQL | NoSQL
 
 </br>
 
 ### 📖 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,nodejs,mysql,react,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,nodejs,mysql,react,java,spring)](https://skillicons.dev)
 
 </br>
 
 ### 👨‍💻 Future Learning Goals
-[![My Skills](https://skillicons.dev/icons?i=docker,nestjs,vuejs,python,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,kali,nestjs,nextjs,python)](https://skillicons.dev)
 
 </br>
 
