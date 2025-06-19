@@ -13,21 +13,21 @@ I'm a passionate and motivated web developer with a strong focus on building sca
 - 🛡 Digital security enthusiast  
 - 📚 Basic English level  
 - 💭 Ask me about:  
-  - TypeScript | Java
+  - TypeScript 
   - HTML | CSS 
-  - Node.js | Spring  
-  - Aungular | VUE  
+  - Node.js 
+  - React
   - SQL | NoSQL
 
 </br>
 
 ### 📖 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=typescript,html,css,nodejs,mysql,angular,vue,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,html,css,nodejs,postgres,mongo,react)](https://skillicons.dev)
 
 </br>
 
 ### 👨‍💻 Future Learning Goals
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,kali,nestjs,nextjs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,nestjs,nextjs)](https://skillicons.dev)
 
 </br>
 
