@@ -15,7 +15,7 @@ I'm a passionate and motivated web developer with a strong focus on building sca
 - 💭 Ask me about:  
   - TypeScript 
   - HTML | CSS 
-  - Node.js | .NET
+  - Node.js 
   - React
   - SQL | NoSQL
 
