@@ -9,7 +9,7 @@
 I'm a passionate and motivated developer with a strong focus on building scalable and maintainable applications.
 
 - 🌎 I'm from Brazil  
-- 💻 I'm a Systems Development student
+- 💻 I'm a System Development student
 - 🛠️ Low-level enthusiast  
 - 📚 Basic English level  
 - 💭 Ask me about:  
