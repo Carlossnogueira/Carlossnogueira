@@ -14,7 +14,7 @@ I'm a passionate and motivated developer with a strong focus on building scalabl
 - 📚 Basic English level  
 - 💭 Ask me about:  
   - C++ | C# | Python 
-  - .NET | Flask
+  - .NET 
   - Angular
   - SQL
 
