@@ -1,39 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=500&lines=Hello!+I'm+Carlos+Nogueira!+👋;Web+Developer!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=500&lines=Hello!+I'm+Carlos+Nogueira!+👋;Backend+Developer!"/>
 </p>
 
 </br>
 
 ### 👋 About Me:
 ---
-I'm a passionate and motivated web developer with a strong focus on building scalable and maintainable applications.
+I'm a passionate and motivated developer with a strong focus on building scalable and maintainable applications.
 
 - 🌎 I'm from Brazil  
 - 💻 I'm a Systems Development student
-- 🛡 Digital security enthusiast  
+- 🛠️ Low-level enthusiast  
 - 📚 Basic English level  
 - 💭 Ask me about:  
-  - TypeScript 
-  - HTML | CSS 
-  - Node.js 
-  - React
-  - SQL | NoSQL
+  - C++ | C# | Python 
+  - .NET | Flask
+  - Angular
+  - SQL
 
 </br>
 
 ### 📖 Currently Learning : 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,postgres,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,python,postgres,angular)](https://skillicons.dev)
 
 </br>
-
-### ⁉️ Taking a break to focus on the backend. I'll get back to it later : 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mongo,react,python)](https://skillicons.dev)
-
-</br>
-
 
 ### 👨‍💻 Future Learning Goals : 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,nestjs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,vim)](https://skillicons.dev)
 
 </br>
 
