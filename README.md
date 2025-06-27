@@ -10,18 +10,17 @@ I'm a passionate and motivated developer with a strong focus on building scalabl
 
 - 🌎 I'm from Brazil  
 - 💻 I'm a System Development student
-- 🛠️ Low-level enthusiast  
 - 📚 Basic English level  
 - 💭 Ask me about:  
-  - C++ | C# | Python 
-  - .NET 
-  - Angular
-  - SQL
+  - Typescript 
+  - Fastify | Nextjs
+  - React 
+  - SQL 
 
 </br>
 
 ### 📖 Currently Learning : 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,python,postgres,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,typescript,python,postgres,react)](https://skillicons.dev)
 
 </br>
 
