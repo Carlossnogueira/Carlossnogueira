@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=500&lines=Hello!+I'm+Carlos+Nogueira!+👋;Backend+Developer!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=500&lines=Hello!+I'm+Carlos+Nogueira!+👋;Web+Developer!"/>
 </p>
 
 </br>
@@ -12,15 +12,15 @@ I'm a passionate and motivated developer with a strong focus on building scalabl
 - 💻 I'm a System Development student
 - 📚 Basic English level  
 - 💭 Ask me about:  
-  - Typescript 
-  - Fastify | Nextjs
-  - React 
+  - Java | Typescript  
+  - Spring 
+  - React & Angular
   - SQL 
 
 </br>
 
 ### 📖 Currently Learning : 
-[![My Skills](https://skillicons.dev/icons?i=cpp,typescript,python,postgres,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,react,postgres)](https://skillicons.dev)
 
 </br>
 
