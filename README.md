@@ -12,22 +12,19 @@ I'm a passionate and motivated developer with a strong focus on building scalabl
 - 💻 I'm a System Development student
 - 📚 Basic English level  
 - 💭 Ask me about:  
-  - Java | Typescript  
+  - Java | TypeScript  
   - Spring 
-  - React & Angular
+  - Angular
   - SQL 
 
 </br>
 
-### 📖 Currently Learning : 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,react,postgres)](https://skillicons.dev)
+### 📖 My Stack : 
+[![My Skills](https://skillicons.dev/icons?i=typescript,java,spring,angular,postgres)](https://skillicons.dev)
 
 </br>
-
-### 👨‍💻 Future Learning Goals : 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,vim)](https://skillicons.dev)
-
 </br>
+
 
 <div align="center">
   <a href="https://github.com/Carlossnogueira">
