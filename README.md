@@ -20,7 +20,7 @@ I'm a passionate and motivated developer with a strong focus on building scalabl
 </br>
 
 ### 📖 My Stack : 
-[![My Skills](https://skillicons.dev/icons?i=typescript,java,spring,angular,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,java,kotlin,spring,angular,postgres,docker)](https://skillicons.dev)
 
 </br>
 </br>
