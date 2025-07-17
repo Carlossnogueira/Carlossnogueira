@@ -71,7 +71,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats](https://github.com/Carlossnogueira/Stock-Control-Nodejs">
+  <a href="https://github.com/Carlossnogueira/Stock-Control-Nodejs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlossnogueira&repo=Stock-Control-Nodejs&theme=slateorange" alt="Readme Card"/>
   </a>
 
