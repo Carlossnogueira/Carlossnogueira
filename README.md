@@ -1,9 +1,9 @@
 <!--Intro-->
-<h1 align="center">Hello! I'm Carlos Nogueira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi! I'm Carlos Nogueira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Backend+Developer" alt="Typing SVG" />
 </p>
 <p align="center">
   <sub><i>Every language has its purpose. I aim to master a few and stay ready to use others when necessary.</i></sub>
@@ -23,12 +23,10 @@
 - 🌎 I'm from Brazil 
 - 💻 I'm a System Development student
 - 📚 Basic English level
-- ⚛ Want to create mobile app with React Native
+- 💪 Focus on Backend
 - 💭 Ask me about:  
-  - TypeScript | C#
-  - .NET
-  - Node
-  - React | Angular
+  - TypeScript | Java
+  - Node | Spring
   - SQL 
   
 <!--My Skills-->
@@ -39,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,html,css,react,angular,git,github,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,nest,prisma,java,spring,react,github,git,linux,mint" />
   </a>
 </p>
 
