@@ -23,12 +23,12 @@
 - 🌎 I'm from Brazil 
 - 💻 I'm a System Development student
 - 📚 Basic English level
-- ☕ Learning some Java but prefer Nodejs
 - ⚛ Want to create mobile app with React Native
 - 💭 Ask me about:  
-  - TypeScript | Java
+  - TypeScript | C#
+  - .NET
   - Node
-  - React
+  - React | Angular
   - SQL 
   
 <!--My Skills-->
@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,nestjs,express,prisma,html,css,react,tailwind,git,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,html,css,react,angular,git,github,linux&perline=6" />
   </a>
 </p>
 
