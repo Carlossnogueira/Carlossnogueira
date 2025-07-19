@@ -25,8 +25,8 @@
 - 📚 Basic English level
 - 💪 Focus on Backend
 - 💭 Ask me about:  
-  - TypeScript | Java
-  - Node | Spring
+  - C# | TypeScript
+  - .NET | Nodejs
   - SQL 
   
 <!--My Skills-->
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,nest,prisma,java,spring,react,github,git,linux,mint" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,nodejs,angular,github,git,linux,mint" />
   </a>
 </p>
 
