@@ -1,16 +1,103 @@
-## Hi there 👋
+<!--Intro-->
 
-<!--
-**Carlossnogueira/Carlossnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi! I'm Carlos Nogueira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<p align="center">
+  <sub><i>Every language has its purpose. I aim to master a few and stay ready to use others when necessary.</i></sub>
+</p>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Message-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=FullStack+Developer" alt="Typing SVG" />
+</p>
+
+<br>
+
+<!--About me-->
+## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<br>
+
+- 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
+- 💻 **Role** Open to work, looking for new opportunities.
+- 📚 **School** System Development student.
+- 💪 **Core Stack** Java, Spring, TypeScript, JavaScript, Nodejs React, Angular, TailwindCSS.
+- ⭐ **Expertise** Fullstack web development.
+- 💭 **Goals** Create scalable, maintainable, and efficient software solutions.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-s-nogueira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Carlossnogueira" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-212121?style=for-the-badge&logo=github&logoColor=FFFFF"/></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Carlossnogueira.Carlossnogueira" target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Carlossnogueira.Carlossnogueira&color=00D4FF"/></a>
+</p>
+
+  
+<!--My Skills-->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Learning
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,react,tailwind,angular,html,css,javascript,github,git,linux,lua,cpp"/>
+    <img src="https://skillicons.dev/icons?i=python,docker,mint,vscode"/>
+  </a>
+
+<p align="center">
+  <sub><i>Tech Stack Overview:</i></sub>
+</p>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Java-70%25-orange?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-20%25-blue?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-2.5%25-00599C?logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2.5%25-000080?logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-5%25-3776AB?logo=python&logoColor=white" />
+</p>
+
+</p>
+
+<!--My Stats-->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+
+<p align="center">
+  <sub><i>Note: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.</i></sub>
+</p>
+
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Carlossnogueira">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=city_lights&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/Carlossnogueira">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=city_lights" />
+  </a>
+</div>
+
+</br>
+
+<!--Projects-->
+## <img src='https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/git.gif?raw=true' width="60 px" height="20 px"> My Projects
+
+| Project                  | Description                                                                 | Stack                                  | Link                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
+| **Spring - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | Java 17 + Springboot         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Spring)  |
+
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/Carlossnogueira/Stock-Control-Nodejs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlossnogueira&repo=Stock-Control-Nodejs&theme=city_lights" alt="Readme Card"/>
+  </a>
+
+  <a href=" https://github.com/Carlossnogueira/Stock-Control-Spring">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlossnogueira&repo=Stock-Control-Spring&theme=city_lights" alt="Readme Card"/>
+  </a>
+
+</div>
+
