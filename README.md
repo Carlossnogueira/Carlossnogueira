@@ -23,9 +23,9 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** Java, Spring, TypeScript, JavaScript, Nodejs React, Angular, TailwindCSS.
+- 💪 **Core Stack** TypeScript, JavaScript, Nodejs, React, TailwindCSS.
 - ⭐ **Expertise** Fullstack web development.
-- 💭 **Goals** Create scalable, maintainable, and efficient software solutions.
+- 💭 **Goals** Create scalable, maintainable, and efficient web solutions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-s-nogueira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -42,20 +42,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,react,tailwind,angular,html,css,javascript,github,git,linux,lua,cpp"/>
-    <img src="https://skillicons.dev/icons?i=python,docker,mint,vscode"/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,tailwind,nestjs,nextjs,python,figma,vscode,mint,github,git"/>
   </a>
 
 <p align="center">
   <sub><i>Tech Stack Overview:</i></sub>
-</p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Java-70%25-orange?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-20%25-blue?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-2.5%25-00599C?logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2.5%25-000080?logo=lua&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-60%25-blue?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-5%25-orange?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-5%25-3776AB?logo=python&logoColor=white" />
 </p>
+
 
 </p>
 
@@ -85,7 +83,9 @@
 
 | Project                  | Description                                                                 | Stack                                  | Link                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
-| **Spring - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | Java 17 + Springboot         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Spring)  |
+| **Nodejs - Stock Control (working on it)**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | Node > 20, Typescript         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
+| **Spring - Stock Control (incomplete)**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | Java 17 + Springboot         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Spring)  |
+
 
 <br>
 
