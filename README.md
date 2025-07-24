@@ -9,7 +9,7 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Backend+Developer" alt="Typing SVG" />
 </p>
 
 <br>
@@ -23,8 +23,8 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** TypeScript, JavaScript, Nodejs, Python, React, TailwindCSS.
-- ⭐ **Expertise** Front-end development and Python API.
+- 💪 **Core Stack** Python, TypeScript, Nodejs, React.
+- ⭐ **Expertise** Python API and React.
 - 💭 **Goals** Create scalable, maintainable, and efficient web solutions.
 
 <p align="center">
@@ -42,16 +42,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,tailwind,nextjs,python,flask,figma,vscode,mint,github,git"/>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,typescript,nodejs,react,cpp,vscode,git,github,mint"/>
   </a>
 
 <p align="center">
   <sub><i>Tech Stack Overview:</i></sub>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-80%25-blue?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-10%25-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-10%25-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-60%25-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-30%25-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-5%25-A8B9CC?logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-5%25-00599C?logo=cpp&logoColor=white" />
 </p>
+
 
 
 </p>
