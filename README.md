@@ -23,7 +23,7 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** Java, Spring, Typescript, Nodejs, Angular.
+- 💪 **Core Stack** C#, .NET, Typescript, Nodejs, Angular.
 - ⭐ **Expertise** Spring API and Angular.
 - 💭 **Goals** Create scalable, maintainable, and efficient web solutions.
 
