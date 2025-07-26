@@ -42,24 +42,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,typescript,angular,nodejs,vscode,git,github,mint"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,angular,nodejs,vscode,git,github,mint"/>
   </a>
-
-<p align="center">
-  <sub><i>Tech Stack Overview:</i></sub>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-80%25-orange?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-15%25-blue?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-5%25-F7DF1E?logo=javascript&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-80%25-6DB33F?logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-20%25-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-100%25-DD0031?logo=angular&logoColor=white" />
-</p>
-
-
-
 
 </p>
 
