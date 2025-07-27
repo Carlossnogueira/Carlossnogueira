@@ -23,8 +23,8 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** C#, .NET, Typescript, Nodejs, Angular.
-- ⭐ **Expertise** Spring API and Angular.
+- 💪 **Core Stack** C#, .NET, Typescript, Nodejs, React.
+- ⭐ **Expertise** .NET API and React.
 - 💭 **Goals** Create scalable, maintainable, and efficient web solutions.
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,angular,nodejs,vscode,git,github,mint"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nodejs,vscode,git,github,mint"/>
   </a>
 
 </p>
@@ -74,6 +74,7 @@
 | Project                  | Description                                                                 | Stack                                  | Link                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
 | **Nodejs - Stock Control (working on it)**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | Node > 20, Typescript         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
+| **.NET - Contact Form**          | Simple contact form in .NET Core | .NET 8         | [Project Repository](https://github.com/Carlossnogueira/Contact-Form-.NET) |
 
 
 
@@ -83,6 +84,10 @@
 
   <a href="https://github.com/Carlossnogueira/Stock-Control-Nodejs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlossnogueira&repo=Stock-Control-Nodejs&theme=city_lights" alt="Readme Card"/>
+  </a>
+
+  <a href="https://github.com/Carlossnogueira/Contact-Form-.NET">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlossnogueira&repo=Contact-Form-.NET&theme=city_lights" alt="Readme Card"/>
   </a>
 
 
