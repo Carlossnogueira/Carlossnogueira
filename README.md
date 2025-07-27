@@ -9,7 +9,7 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Web+Developer" alt="Typing SVG" />
 </p>
 
 <br>
@@ -23,8 +23,8 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** C#, .NET, Typescript, Nodejs, React.
-- ⭐ **Expertise** .NET API and React.
+- 💪 **Core Stack** Typescript, Nodejs, React.
+- ⭐ **Expertise** Nodejs API and React.
 - 💭 **Goals** Create scalable, maintainable, and efficient web solutions.
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nodejs,vscode,git,github,mint"/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,tailwind,nest,next,prisma,postgres,vitest"/>
   </a>
 
 </p>
