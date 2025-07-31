@@ -3,7 +3,7 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Backend+Developer;Web+security+and+automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Backend+Developer" alt="Typing SVG" />
 </p>
 
 <br>
@@ -78,6 +78,8 @@
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
 | **Nodejs - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | Node > 20, Typescript         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
 | **.NET - Contact Form**          | Simple contact form in .NET Core API. | .NET 8         | [Project Repository](https://github.com/Carlossnogueira/Contact-Form-.NET) |
+| **.NET - Url Shortener**          | Easy Url Shortner in .NET. | .NET 8         | [Project Repository](https://github.com/Carlossnogueira/URL-Shortener) |
+
 
 
 </div>
