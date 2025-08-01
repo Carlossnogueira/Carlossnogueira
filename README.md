@@ -19,7 +19,6 @@
 - 📚 **School** System Development student.
 - 💪 **Core Stack** .NET, Typescript, NodeJs.
 - ⭐ **Expertise** .NET and Nodejs web API.
-- 🔒 **Fact** Digital security enthusiast and automation.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
 <br>
