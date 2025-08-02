@@ -3,7 +3,7 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Full-stack+Web+Developer;Nodejs+|+Typescript+|+Javascript" alt="Typing SVG" />
 </p>
 
 <br>
@@ -17,8 +17,8 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** .NET, Typescript, NodeJs.
-- ⭐ **Expertise** .NET and Nodejs web API.
+- 💪 **Core Stack** Typescript, NodeJs, Reactjs.
+- ⭐ **Expertise** Nodejs web API and frontend.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
 <br>
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,nodejs,postgres,docker"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,tailwind,html,css,sass"/>
   </a>
 
 </p>
@@ -60,10 +60,10 @@
 
 <div align="center">
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=shadow_red&count_private=true&include_all_commits=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=shadow_red" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=calm_pink" />
   </a>
 </div>
 
