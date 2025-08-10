@@ -78,7 +78,11 @@
 | **Nodejs - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | <img src="https://skillicons.dev/icons?i=nodejs"/>         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
 | **.NET - Contact Form**          | Simple contact form in .NET Core API. | <img src="https://skillicons.dev/icons?i=dotnet"/>        | [Project Repository](https://github.com/Carlossnogueira/Contact-Form-.NET) |
 | **.NET - Url Shortener**          | Easy Url Shortner in .NET. | <img src="https://skillicons.dev/icons?i=dotnet"/>          | [Project Repository](https://github.com/Carlossnogueira/URL-Shortener) |
-| **Website for a clinic (Front)**          | Website for a clinic created in React | <img src="https://skillicons.dev/icons?i=react"/>         | [Project Repository](https://github.com/Carlossnogueira/serena-saude) |
+| **Website for a clinic (Front)**          | Website for a clinic created in React/Nodejs | <img src="https://skillicons.dev/icons?i=react"/>         | [Project Repository](https://github.com/Carlossnogueira/serena-saude) |
+| **Website for a clinic (Backend)**          | Website for a clinic created in React/Nodejs | <img src="https://skillicons.dev/icons?i=nodejs"/>         | [Project Repository](https://github.com/Carlossnogueira/serena-saude-backend) |
+
+
+
 
 
 
