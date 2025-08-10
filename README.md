@@ -17,7 +17,7 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** Typescript, NodeJs, Reactjs.
+- 💪 **Core Stack** Typescript, NodeJs, Python.
 - ⭐ **Expertise** Nodejs web API and frontend.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,tailwind,html,css,sass"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,tailwind,html,css,sass"/>
   </a>
 
 </p>
@@ -75,9 +75,10 @@
 
 | Project                  | Description                                                                 | Stack                                  | Link                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
-| **Nodejs - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | Node > 20, Typescript         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
-| **.NET - Contact Form**          | Simple contact form in .NET Core API. | .NET 8         | [Project Repository](https://github.com/Carlossnogueira/Contact-Form-.NET) |
-| **.NET - Url Shortener**          | Easy Url Shortner in .NET. | .NET 8         | [Project Repository](https://github.com/Carlossnogueira/URL-Shortener) |
+| **Nodejs - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | <img src="https://skillicons.dev/icons?i=nodejs"/>         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
+| **.NET - Contact Form**          | Simple contact form in .NET Core API. | <img src="https://skillicons.dev/icons?i=dotnet"/>        | [Project Repository](https://github.com/Carlossnogueira/Contact-Form-.NET) |
+| **.NET - Url Shortener**          | Easy Url Shortner in .NET. | <img src="https://skillicons.dev/icons?i=dotnet"/>          | [Project Repository](https://github.com/Carlossnogueira/URL-Shortener) |
+| **Website for a clinic (Front)**          | Website for a clinic created in React | <img src="https://skillicons.dev/icons?i=react"/>         | [Project Repository](https://github.com/Carlossnogueira/serena-saude) |
 
 
 
