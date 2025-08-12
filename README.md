@@ -17,7 +17,7 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** Typescript, NodeJs, Python.
+- 💪 **Core Stack** Typescript, NodeJs.
 - ⭐ **Expertise** Nodejs web API and frontend.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
