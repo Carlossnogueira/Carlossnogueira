@@ -17,8 +17,8 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** Typescript, NodeJs.
-- ⭐ **Expertise** Nodejs web API and frontend.
+- 💪 **Core Stack** Typescript, NodeJs, Laravel.
+- ⭐ **Expertise** Web API, and frontend.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
 <br>
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,tailwind,html,css"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,typescript,nodejs,react,vue,tailwind,html,css"/>
   </a>
 
 </p>
@@ -60,10 +60,10 @@
 
 <div align="center">
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=calm_pink&count_private=true&include_all_commits=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=shades-of-purple&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=calm_pink" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=shades-of-purple" />
   </a>
 </div>
 
