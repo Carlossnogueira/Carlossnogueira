@@ -3,7 +3,7 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Full-stack+Web+Developer;Nodejs+|+Typescript+|+Javascript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Full-stack+Web+Developer;Laravel+|+Nodejs+|+Typescript" alt="Typing SVG" />
 </p>
 
 <br>
