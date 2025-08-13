@@ -3,7 +3,7 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Full-stack+Web+Developer;Laravel+|+Nodejs+|+Typescript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Full-stack+Web+Developer;.NET+|+Nodejs+|+Typescript" alt="Typing SVG" />
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** Typescript, NodeJs, Laravel.
+- 💪 **Core Stack** Typescript, NodeJs, .NET.
 - ⭐ **Expertise** Web API, and frontend.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,typescript,nodejs,react,vue,tailwind,html,css"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,nodejs,react,tailwind,html,css"/>
   </a>
 
 </p>
