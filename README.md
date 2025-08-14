@@ -80,6 +80,10 @@
 | **.NET - Url Shortener**          | Easy Url Shortner in .NET. | <img src="https://skillicons.dev/icons?i=dotnet"/>          | [Project Repository](https://github.com/Carlossnogueira/URL-Shortener) |
 | **Website for a clinic (Front)**          | Website for a clinic created in React/Nodejs | <img src="https://skillicons.dev/icons?i=react"/>         | [Project Repository](https://github.com/Carlossnogueira/serena-saude) |
 | **Website for a clinic (Backend)**          | Website for a clinic created in React/Nodejs | <img src="https://skillicons.dev/icons?i=nodejs"/>         | [Project Repository](https://github.com/Carlossnogueira/serena-saude-backend) |
+| **ToDo in React**          | React TODO app | <img src="https://skillicons.dev/icons?i=react"/>         | [Project Repository](https://github.com/Carlossnogueira/Todo-react) |
+
+
+
 
 
 
