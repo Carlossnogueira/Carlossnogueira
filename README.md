@@ -3,22 +3,24 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Full-stack+Web+Developer;.NET+|+Nodejs+|+Typescript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Fullstack+Web+Developer;.NET+|+CSharp+|+Angular" alt="Typing SVG" />
 </p>
 
 <br>
 
 <!--About me-->
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<img width="15%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dotnet-bot.svg/848px-Dotnet-bot.svg.png" />
+
 
 <br>
 
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** Typescript, NodeJs, .NET.
-- ⭐ **Expertise** Web API, and frontend.
+- 💪 **Core Stack** .NET, Angular, Nodejs
+- ⭐ **Expertise** Web API.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
 <br>
@@ -26,7 +28,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-s-nogueira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Carlossnogueira" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-212121?style=for-the-badge&logo=github&logoColor=FFFFF"/></a>
- 
 </p>
 
 <p align="center">
@@ -43,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,nodejs,react,tailwind,html,css"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,angular,typescript,bootstrap,html,css"/>
   </a>
 
 </p>
@@ -75,12 +76,10 @@
 
 | Project                  | Description                                                                 | Stack                                  | Link                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
-| **Nodejs - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | <img src="https://skillicons.dev/icons?i=nodejs"/>         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
 | **.NET - Contact Form**          | Simple contact form in .NET Core API. | <img src="https://skillicons.dev/icons?i=dotnet"/>        | [Project Repository](https://github.com/Carlossnogueira/Contact-Form-.NET) |
 | **.NET - Url Shortener**          | Easy Url Shortner in .NET. | <img src="https://skillicons.dev/icons?i=dotnet"/>          | [Project Repository](https://github.com/Carlossnogueira/URL-Shortener) |
-| **Website for a clinic (Front)**          | Website for a clinic created in React/Nodejs | <img src="https://skillicons.dev/icons?i=react"/>         | [Project Repository](https://github.com/Carlossnogueira/serena-saude) |
-| **Website for a clinic (Backend)**          | Website for a clinic created in React/Nodejs | <img src="https://skillicons.dev/icons?i=nodejs"/>         | [Project Repository](https://github.com/Carlossnogueira/serena-saude-backend) |
 | **ToDo in React**          | React TODO app | <img src="https://skillicons.dev/icons?i=react"/>         | [Project Repository](https://github.com/Carlossnogueira/Todo-react) |
+| **Nodejs - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | <img src="https://skillicons.dev/icons?i=nodejs"/>         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
 
 
 
