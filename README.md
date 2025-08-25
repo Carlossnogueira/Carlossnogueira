@@ -3,7 +3,7 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Fullstack+Web+Developer;.NET+|+CSharp+|+Angular" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Fullstack+Web+Developer;JavaScript+|+TypeScript+|+Nodejs" alt="Typing SVG" />
 </p>
 
 <br>
@@ -11,7 +11,10 @@
 <!--About me-->
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
-<img width="15%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dotnet-bot.svg/848px-Dotnet-bot.svg.png" />
+
+<img width="20%" align="right" alt="Github" src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" />
+
+
 
 
 <br>
@@ -19,7 +22,7 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** .NET, Angular, Nodejs
+- 💪 **Core Stack** JavaScript, TypeScript, Nodejs, React
 - ⭐ **Expertise** Web API.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
@@ -44,7 +47,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,angular,typescript,bootstrap,html,css"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,react,tailwind,html,css,postgres,prisma"/>
   </a>
 
 </p>
@@ -61,10 +64,10 @@
 
 <div align="center">
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=shades-of-purple&count_private=true&include_all_commits=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=shades-of-purple" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=ayu-mirage" />
   </a>
 </div>
 
