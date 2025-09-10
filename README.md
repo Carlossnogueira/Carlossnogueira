@@ -3,7 +3,7 @@
 
 <!--Message-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Fullstack+Web+Developer;CSharp+|+DotNet+|+Angular" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?type=wave&color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Fullstack+Web+Developer;Java+|+Spring+|+Angular" alt="Typing SVG" />
 </p>
 
 <br>
@@ -22,7 +22,7 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** .Net, C#, Angular
+- 💪 **Core Stack** Java, Spring, Angular.
 - ⭐ **Expertise** Web API.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,angular,html,css,postgres,docker"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,typescript,angular,bootstrap,postgres,docker"/>
   </a>
 
 </p>
