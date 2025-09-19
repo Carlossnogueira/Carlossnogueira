@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,typescript,dotnet,nodejs,react,python,docker,visualstudio,rider,vscode,windows,linux"/>
+    <img src="https://skillicons.dev/icons?i=cs,typescript,dotnet,angular,docker,visualstudio,rider,windows,linux"/>
   </a>
 
 </p>
