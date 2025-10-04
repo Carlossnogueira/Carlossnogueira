@@ -1,4 +1,3 @@
-
 </br>
 
 <!--Message-->
@@ -9,7 +8,7 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
 
-<img width="35%" align="right" alt="Github" src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Dark.gif" />
+<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 
 
@@ -22,8 +21,8 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student.
-- 💪 **Core Stack** C#, .NET.
-- ⭐ **Expertise** Web API.
+- 💪 **Core Stack** C#, .NET, React, some Angular and ReactNative.
+- ⭐ **Expertise** Web API, SPA.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
  
 <br>
@@ -35,23 +34,39 @@
 </p>
 
 
-
-
-
 <!--My Skills-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> My Tools
 
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,typescript,dotnet,angular,docker,visualstudio,rider,windows,linux"/>
-  </a>
 
-</p>
+<div align="center">
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
 
 <!--My Stats-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/carlossnogueira">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlossnogueira&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
 <p align="center">
   <sub><i>Note: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.</i></sub>
@@ -61,12 +76,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/Carlossnogueira">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlossnogueira&langs_count=12&layout=compact&theme=react" />
-  </a>
+ <a> 
+    <a href="https://github.com/carlossnogueira"><img alt="carlos's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=carlossnogueira&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/carlossnogueira"><img alt="carlos's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=carlossnogueira&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 </div>
 
 </br>
@@ -77,10 +91,11 @@
 
 | Project                  | Description                                                                 | Stack                                  | Link                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
-| **.NET - Contact Form**          | Simple contact form in .NET Core API. | <img src="https://skillicons.dev/icons?i=dotnet"/>        | [Project Repository](https://github.com/Carlossnogueira/Contact-Form-.NET) |
-| **.NET - Url Shortener**          | Easy Url Shortner in .NET. | <img src="https://skillicons.dev/icons?i=dotnet"/>          | [Project Repository](https://github.com/Carlossnogueira/URL-Shortener) |
-| **ToDo in React**          | React TODO app | <img src="https://skillicons.dev/icons?i=react"/>         | [Project Repository](https://github.com/Carlossnogueira/Todo-react) |
-| **Nodejs - Stock Control**          | This is a simple inventory control system designed for study purposes. It helps manage product quantities, track stock movements, and ensure that inventory data remains accurate and up-to-date. | <img src="https://skillicons.dev/icons?i=nodejs"/>         | [Project Repository](https://github.com/Carlossnogueira/Stock-Control-Nodejs) |
+|👑 **.Net + React - SimplesPDV**          | A simple project focused on monitoring inventory and being a point of sale  | <img src="https://skillicons.dev/icons?i=dotnet,react"/>         | [📦Backend repo](https://github.com/Carlossnogueira/SimplesPDV) </br> [🌟Frontend repo](https://github.com/Carlossnogueira/SimplesPDV-React) |
+| **.NET - Contact Form**          | Simple contact form in .NET Core API. | <img src="https://skillicons.dev/icons?i=dotnet"/>        | [📦Backend repo](https://github.com/Carlossnogueira/Contact-Form-.NET) |
+| **.NET - Url Shortener**          | Easy Url Shortner in .NET. | <img src="https://skillicons.dev/icons?i=dotnet"/>          | [📦Backend repo](https://github.com/Carlossnogueira/URL-Shortener) |
+| **ToDo in React**          | React TODO app | <img src="https://skillicons.dev/icons?i=react"/>         | [🌟Frontend repo](https://github.com/Carlossnogueira/Todo-react) |
+
 
 
 
