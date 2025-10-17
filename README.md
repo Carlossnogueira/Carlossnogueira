@@ -21,7 +21,7 @@
 - 🙋‍♂️ **Carlos Nogueira**  🇧🇷 Brazilian.
 - 💻 **Role** Open to work, looking for new opportunities.
 - 📚 **School** System Development student, future software engineer.
-- 💪 **Core Stack** C#, .NET.
+- 💪 **Core Stack** Java, Spring.
 - ⭐ **Expertise** Web API.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
  
@@ -42,9 +42,9 @@
 
 <div align="center">
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -79,29 +79,4 @@
     <a href="https://github.com/carlossnogueira"><img alt="carlos's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=carlossnogueira&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
   <a href="https://github.com/carlossnogueira"><img alt="carlos's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=carlossnogueira&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
 </a>
-</div>
-
-</br>
-
-<!--Projects-->
-
-## <img src='https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/git.gif?raw=true' width="50 px" height="20 px"> My Projects
-
-| Project                  | Description                                                                 | Stack                                  | Link                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
-|👑 **.Net + React - SimplesPDV**          | A simple project focused on monitoring inventory and being a point of sale  | <img src="https://skillicons.dev/icons?i=dotnet,react"/>         | [📦Backend repo](https://github.com/Carlossnogueira/SimplesPDV) </br> [🌟Frontend repo](https://github.com/Carlossnogueira/SimplesPDV-React) |
-| **.NET - Contact Form**          | Simple contact form in .NET Core API. | <img src="https://skillicons.dev/icons?i=dotnet"/>        | [📦Backend repo](https://github.com/Carlossnogueira/Contact-Form-.NET) |
-| **.NET - Url Shortener**          | Easy Url Shortner in .NET. | <img src="https://skillicons.dev/icons?i=dotnet"/>          | [📦Backend repo](https://github.com/Carlossnogueira/URL-Shortener) |
-| **ToDo in React**          | React TODO app | <img src="https://skillicons.dev/icons?i=react"/>         | [🌟Frontend repo](https://github.com/Carlossnogueira/Todo-react) |
-
-
-
-
-
-
-
-
-
-
-</div>
 
