@@ -18,7 +18,7 @@
 - 💪 **Core Stack** C#, .NET Core.
 - ⭐ **Expertise** Web API.
 - 💭 **Goals** Create scalable, maintainable, and efficient solutions.
-- 🐑 **Hobbies** GameDev, Blender.
+- 🐑 **Hobbies** Game Dev, Blender.
 
 <br>
 <br>
