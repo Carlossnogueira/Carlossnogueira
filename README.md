@@ -53,15 +53,9 @@
 
 <!--My Stats-->
 
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/carlossnogueira">
-    <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Carlossnogueira&theme=gruvbox" alt="Carlo's Streak" />
-    </a>
-  </a>
-</p>
 
 <p align="center">
   <sub><i>Note: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.</i></sub>
