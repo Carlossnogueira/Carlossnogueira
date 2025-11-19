@@ -9,9 +9,8 @@
 - 🏫 Currently in the final semester of Systems Analysis and Development at Estácio.  
 - 🧑‍💻 I develop in any language if necessary, with most of my studies focused on C# with .NET Core.  
 - 🗣 Native Portuguese speaker, currently studying English to improve my proficiency.  
-- 🧑‍🔧 Seeking to enhance my knowledge in software architecture and web development.  
-- 🐍 Enthusiast of C and Python — in my free time, I build tools for personal use.
-
+- 🧑‍🔧 Seeking to enhance my knowledge in software architecture and web development.
+- 📳 Flutter and React in my free time.
 
 <br>
 
@@ -22,7 +21,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,python,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,typescript,react,flutter,postgres,linux)](https://skillicons.dev)
 
 
   <sub><i>Note: C# is my main language, so all the knowledge I gain from it I apply to others, and vice versa. I don’t hold back my curiosity — I dive into the languages that catch my attention the most.</i></sub>
