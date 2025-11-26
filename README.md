@@ -7,12 +7,12 @@
 
 <br>
 
-- 📚 Technician in Internet Computing and Systems Development (Etec Dans).  
-- 🏫 Currently finishing my Systems Analysis and Development degree at Estácio.  
-- 🧑‍💻 Focused on **JavaScript/TypeScript**, specializing in **React** (Front-end) and **Node.js** (Back-end).  
-- 🔧 Experience with C# and .NET from academic and personal projects.  
-- 🗣 Improving my English skills daily to expand professional opportunities.  
-- 🧱 Interested in software architecture, UI development, and building scalable applications.
+- 📚 Technician in Internet Computing and Systems Development (Etec Dans).
+- 🏫 Currently finishing my Systems Analysis and Development degree at Estácio.
+- 🧑‍💻 Focused on C#/.NET for back-end development and Angular for front-end applications.
+- 🔧 Experience with building REST APIs, integration between systems, clean architecture and scalable solutions.
+- 🗣 Improving my English skills daily to expand professional opportunities.
+- 🧱 Interested in software architecture, SOLID principles and building maintainable applications.
 
 <br>
 
@@ -23,11 +23,11 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,react,nest,figma,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,typescript,angular,javascript,html,css,rider,linux)](https://skillicons.dev)
 
 <br />
 <sub><i>
-My current main stack is React + Node.js (TypeScript).  
+My current main stack is C# + Angular.  
 </i></sub>
 
 </div>
