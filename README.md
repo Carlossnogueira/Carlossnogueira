@@ -16,7 +16,6 @@
 
 <br>
 
----
 
 ## 🛠️ Languages & Tools  
 <br>
@@ -32,7 +31,6 @@ My current main stack is C# + Angular.
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 <br>
@@ -42,7 +40,6 @@ My current main stack is C# + Angular.
   <img src="https://nirzak-streak-stats.vercel.app/?user=Carlossnogueira&theme=github_dark&hide_border=true" height="150" alt="streak graph"/>
 </div>
 
----
 
 ## 🌐 Social  
 </br>
