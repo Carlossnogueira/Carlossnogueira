@@ -21,15 +21,11 @@
 <br>
 
 <div align="center">
-
+  
 [![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,angular,javascript,html,css,idea,linux)](https://skillicons.dev)
 
 <br />
-<sub><i>
-My current main stack is C# + Angular.  
-</i></sub>
 
-</div>
 
 
 ## 📊 GitHub Stats
