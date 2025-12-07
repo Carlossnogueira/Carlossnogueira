@@ -9,7 +9,7 @@
 
 - 📚 Technician in Internet Computing and Systems Development (Etec Dans).
 - 🏫 Currently finishing my Systems Analysis and Development degree at Estácio.
-- 🧑‍💻 Focused on Java with Spring for back-end development and Angular for front-end applications.
+- 🧑‍💻 Focused on C# .NET back-end development and React for front-end applications.
 - 🔧 Experience with building REST APIs, integration between systems, clean architecture and scalable solutions.
 - 🗣 Improving my English skills daily to expand professional opportunities.
 - 🧱 Interested in software architecture, SOLID principles and building maintainable applications.
@@ -22,7 +22,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,angular,javascript,html,css,idea,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,typescript,react,python,javascript,html,css,rider,linux)](https://skillicons.dev)
 
 <br />
 
@@ -32,9 +32,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlossnogueira&theme=github_dark&hide_border=true" height="150" alt="stats graph"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Carlossnogueira&theme=github_dark&hide_border=true" height="150" alt="streak graph"/>
 </div>
+
 
 
 ## 🌐 Social  
