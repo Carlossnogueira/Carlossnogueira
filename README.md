@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=28&duration=3000&pause=1200&color=F76464&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Carlos+Nogueira+👋;Back-End+Engineer;Always+Learning%2C+Always+Building+🚀" />
+
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=28&color=F76464&weight=600&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+I'm+Carlos+Nogueira+👋;Back-End+Engineer;Always+Learning%2C+Always+Building+🚀" />
 
 </div>
 
