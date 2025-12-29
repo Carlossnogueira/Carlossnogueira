@@ -48,12 +48,9 @@ if __name__ == "__main__":
 
 ### **🧰 Languages**
 
-
 ![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
@@ -82,10 +79,11 @@ if __name__ == "__main__":
 
 ### **🧰 Tools**
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000.svg?style=for-the-badge\&logo=rider\&logoColor=white\&labelColor=crimson)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+
 
 </div>
 
@@ -121,8 +119,8 @@ if __name__ == "__main__":
 ## 💻 My Dev Environment
 
 
-* 🖥️ **OS** → Linux 
-* 🧰 **IDE** → Rider / VS Code
+* 🖥️ **OS** → Windows 
+* 🧰 **IDE** → Visual Studio / VS Code
 * 🗃️ **DB Tools** → Beekeeper Studio
 * 🔍 **API Testing** → Postman
 * 🎨 **Design** → Figma
