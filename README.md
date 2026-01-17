@@ -22,7 +22,7 @@ class CarlosNogueira:
             "- 🔧 Experience": "REST APIs & integrations",
             "- 🌱 Improving": ["English", "Algorithms"],
             "- 🧱 Interests": ["Architecture", "SOLID", "Clean code"],
-            "- ⚡ Fun Fact": "Android is a hobbie"
+            "- ⚡ Fun Fact": "C++ is a hobby"
         }
 
 if __name__ == "__main__":
@@ -49,7 +49,7 @@ if __name__ == "__main__":
 ### **🧰 Languages**
 
 ![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
@@ -61,7 +61,6 @@ if __name__ == "__main__":
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 
@@ -84,7 +83,6 @@ if __name__ == "__main__":
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
 </div>
