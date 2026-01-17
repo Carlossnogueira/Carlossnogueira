@@ -4,7 +4,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=28&color=F76464&weight=600&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+I'm+Carlos+Nogueira+👋;Back-End+Engineer;Always+Learning%2C+Always+Building+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=28&color=purple&weight=600&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+I'm+Carlos+Nogueira+👋;Back-End+Engineer;Always+Learning%2C+Always+Building+🚀" />
 
 </div>
 
@@ -22,7 +22,7 @@ class CarlosNogueira:
             "- 🔧 Experience": "REST APIs & integrations",
             "- 🌱 Improving": ["English", "Algorithms"],
             "- 🧱 Interests": ["Architecture", "SOLID", "Clean code"],
-            "- ⚡ Fun Fact": "Lose track of time when coding!"
+            "- ⚡ Fun Fact": "Android is a hobbie"
         }
 
 if __name__ == "__main__":
@@ -49,6 +49,7 @@ if __name__ == "__main__":
 ### **🧰 Languages**
 
 ![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
@@ -60,6 +61,7 @@ if __name__ == "__main__":
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 
@@ -81,8 +83,8 @@ if __name__ == "__main__":
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000.svg?style=for-the-badge\&logo=rider\&logoColor=white\&labelColor=crimson)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
 </div>
@@ -119,7 +121,7 @@ if __name__ == "__main__":
 ## 💻 My Dev Environment
 
 
-* 🖥️ **OS** → Windows 
+* 🖥️ **OS** → Windows / Linux
 * 🧰 **IDE** → Visual Studio / VS Code
 * 🗃️ **DB Tools** → Beekeeper Studio
 * 🔍 **API Testing** → Postman
