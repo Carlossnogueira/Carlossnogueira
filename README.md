@@ -26,7 +26,7 @@
 ## 🚀 What I'm Currently Doing
 
 * 🌱 Improving my **.NET** and **JavaScript** skills
-* 📚 Studying **Design Patterns**, **DDD** and **Web Apis**
+* 📚 Studying **Design Patterns**, **DDD** and **Web API**
 * 🧪 Experimenting with **Clean Architecture** 
 * 🧩 Strengthening problem-solving & DS/Algorithms
 
