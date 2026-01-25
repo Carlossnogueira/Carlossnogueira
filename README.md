@@ -4,41 +4,35 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=28&color=purple&weight=600&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+I'm+Carlos+Nogueira+👋;Back-End+Engineer;Always+Learning%2C+Always+Building+🚀" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=28&color=FF746C&weight=600&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+I'm+Carlos+Nogueira+👋;Fullstack+Developer;Always+Learning%2C+Always+Building+🚀" />
 
 </div>
+<br>
 
 ## 👨‍🦱 About Me  
-</br>
 
-```python
-class CarlosNogueira:
-    def __init__(self):
-        self.bio = {
-            "- 🎓 Technical Education": "Computing Technician (Etec Dans)",
-            "- 🏫 Degree": "Finishing Systems Analysis (Estácio)",
-            "- 🧑‍💻 Backend Focus": "C# .NET APIs",
-            "- ⚛️ Frontend Focus": "React Apps",
-            "- 🔧 Experience": "REST APIs & integrations",
-            "- 🌱 Improving": ["English", "Algorithms"],
-            "- 🧱 Interests": ["Architecture", "SOLID", "Clean code"],
-            "- ⚡ Fun Fact": "C++ is a hobby"
-        }
+#### ✍️ Schooling
+- 🎓 Computer Technician (Etec Dans)  
+- 🏫 Finishing Systems Analysis and Development (Estácio)
 
-if __name__ == "__main__":
-    import pprint
-    pprint.pprint(CarlosNogueira().__dict__)
-````
-</br>
+#### 🧱 Interests
+- Software Architecture  
+- SOLID Principles  
+- Clean Code
+
+<br>
 
 ## 🚀 What I'm Currently Doing
 
-* 🌱 Improving my **.NET Architecture** skills
-* 📚 Studying **Design Patterns** & **DDD**
+* 🌱 Improving my **.NET** and **JavaScript** skills
+* 📚 Studying **Design Patterns**, **DDD** and **Web Apis**
 * 🧪 Experimenting with **Clean Architecture** 
 * 🧩 Strengthening problem-solving & DS/Algorithms
 
+
 <br>
+
 
 ## 🛠️ Dev Tools & Technologies
 
@@ -49,7 +43,6 @@ if __name__ == "__main__":
 ### **🧰 Languages**
 
 ![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
@@ -71,8 +64,6 @@ if __name__ == "__main__":
 ### **🗄️ Databases**
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
 
 </div>
 
@@ -121,7 +112,7 @@ if __name__ == "__main__":
 
 * 🖥️ **OS** → Windows / Linux
 * 🧰 **IDE** → Visual Studio / VS Code
-* 🗃️ **DB Tools** → Beekeeper Studio
+* 🗃️ **DB Tools** → DataGrip
 * 🔍 **API Testing** → Postman
 * 🎨 **Design** → Figma
 * 📦 **Versioning** → Git + GitHub
