@@ -25,7 +25,7 @@
 
 ## 🚀 What I'm Currently Doing
 
-* 🌱 Improving my **.NET** and **JavaScript** skills
+* 🌱 Improving my **Java** and **JavaScript** skills
 * 📚 Studying **Design Patterns**, **DDD** and **Web API**
 * 🧪 Experimenting with **Clean Architecture** 
 * 🧩 Strengthening problem-solving & DS/Algorithms
@@ -42,7 +42,7 @@
 
 ### **🧰 Languages**
 
-![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
@@ -52,8 +52,8 @@
 
 ### **📦 Frameworks & Libraries**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 
@@ -71,7 +71,7 @@
 
 ### **🧰 Tools**
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
 
@@ -111,7 +111,7 @@
 
 
 * 🖥️ **OS** → Windows / Linux
-* 🧰 **IDE** → Visual Studio / VS Code
+* 🧰 **IDE** → Intelij / VS Code
 * 🗃️ **DB Tools** → DataGrip
 * 🔍 **API Testing** → Postman
 * 🎨 **Design** → Figma
