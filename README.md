@@ -99,7 +99,7 @@ I use languages according to the project, but I have better proficiency in Javas
 | 🚀 Project               | ⭐ Description                   | 🔗 Link       |
 | ------------------------ | ------------------------------- | ------------- |
 | **Stock System** | Spring + Spring Security and JPA  | [📎 Here!](https://github.com/Carlossnogueira/inventorylite-Spring) |
-|**Data analysis website**|A college extension project: a data analytics website for a specific store.| *coming soon*   |
+|**Data analysis website**|A college extension project: a data analytics website for a specific store.| [📎 Here!](https://github.com/Carlossnogueira/ProjetoExtensao)   |
 | **Portfolio**    | Personal portfolio          | *coming soon*     |
 
 </div>
