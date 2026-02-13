@@ -25,7 +25,7 @@
 
 ## 🚀 What I'm Currently Doing
 
-* 🌱 Improving my **JavaScript** skills
+* 🌱 Improving my **Csharp and JavaScript** skills
 * 📚 Studying **Design Patterns**, **DDD** and **Web API**
 * 🧪 Experimenting with **Clean Architecture** 
 * 🧩 Strengthening problem-solving & DS/Algorithms
@@ -44,16 +44,16 @@
 ### **🧰 Languages**
 <sub>
 
-I use languages according to the project, but I have better proficiency in Javascript.
+I use languages according to the project, but I have better proficiency in C# and Javascript.
 </sub>
 
 </br>
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 
 </div>
 
@@ -61,12 +61,11 @@ I use languages according to the project, but I have better proficiency in Javas
 
 ### **📦 Frameworks, Libraries & Tools**
 
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
@@ -99,7 +98,7 @@ I use languages according to the project, but I have better proficiency in Javas
 | 🚀 Project               | ⭐ Description                   | 🔗 Link       |
 | ------------------------ | ------------------------------- | ------------- |
 | **Stock System** | Spring + Spring Security and JPA  | [📎 Here!](https://github.com/Carlossnogueira/inventorylite-Spring) |
-|**Data analysis website**|A college extension project: a data analytics website for a specific store.| [📎 Here!](https://github.com/Carlossnogueira/ProjetoExtensao)   |
+|**Data analysis website**|A college extension project: a data analytics website for a specific store.| *coming soon*   |
 | **Portfolio**    | Personal portfolio          | *coming soon*     |
 
 </div>
