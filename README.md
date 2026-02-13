@@ -3,9 +3,7 @@
 <div align="center">
 
 
-
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=28&color=FF746C&weight=600&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+I'm+Carlos+Nogueira+👋;Fullstack+Developer;Always+Learning%2C+Always+Building+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=28&color=FFFFFF&weight=600&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+I'm+Carlos+Nogueira+👋;Fullstack+Developer;Always+Learning%2C+Always+Building+🚀" />
 
 </div>
 <br>
@@ -113,7 +111,7 @@ I use languages according to the project, but I have better proficiency in C# an
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Carlossnogueira&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Carlossnogueira&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Carlossnogueira&theme=white&hide_border=true" height="150"/>
 
 </div>
 
