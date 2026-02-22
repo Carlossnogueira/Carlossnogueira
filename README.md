@@ -14,10 +14,10 @@
 
 ### **🧰 Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
 
 ### **📦 Frameworks, Libraries & Tools**
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular)](https://skillicons.dev)
 
 
 ### **🗄️ Databases**
@@ -25,7 +25,7 @@
 
 
 ### **🧰 Tools**
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,rider,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rider,vscodium)](https://skillicons.dev)
 
 </br>
 
