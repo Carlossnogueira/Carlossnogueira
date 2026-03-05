@@ -4,7 +4,7 @@
 
 - 🎓 Computer Technician (Etec Dans)  
 - 🏫 Finishing Systems Analysis and Development (Estácio)
-- 💻 Web development and digital security
+- 💻 Web development -> Data engineer
 
 </br>
 
@@ -14,18 +14,22 @@
 
 ### **🧰 Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### **📦 Frameworks, Libraries & Tools**
-[![My Skills](https://skillicons.dev/icons?i=spring,angular)](https://skillicons.dev)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### **🗄️ Databases**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlserver)](https://skillicons.dev)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### **🧰 Tools**
-[![My Skills](https://skillicons.dev/icons?i=rider,vscodium)](https://skillicons.dev)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </br>
 
