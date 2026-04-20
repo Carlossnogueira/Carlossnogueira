@@ -3,25 +3,21 @@
 </div>
 
 
----
-
 🎓 <b>Education:</b> Systems Analysis and Development<br>
 🚀 <b>Focus:</b> Scalable and secure web applications<br>
 💡 <b>Stack:</b> Java development focus<br>
 🔒 <b>Best practices:</b> Clean architecture, design patterns<br>
 📚 <b>Current studies:</b> Java and Angular ecosystem<br>
 
----
 
 <div align="center">
 
   <b>Main Technologies</b><br><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,postgres,docker,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,angular,postgres,docker,git)](https://skillicons.dev)
 
 </div>
 
----
 
 <div align="center">
 
