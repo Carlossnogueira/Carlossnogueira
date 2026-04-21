@@ -14,7 +14,7 @@
 
   <b>Main Technologies</b><br><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,angular,postgres,docker,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,python,angular,postgres,docker,linux,git)](https://skillicons.dev)
 
 </div>
 
