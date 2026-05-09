@@ -3,18 +3,18 @@
 </div>
 
 
-🎓 <b>Education:</b> Systems Analysis and Development<br>
+🎓 <b>Education:</b> Systems Analysis and Development, studying web security<br>
 🚀 <b>Focus:</b> Scalable and secure web applications<br>
-💡 <b>Stack:</b> Java development focus<br>
+💡 <b>Stack:</b> Backend development focus<br>
 🔒 <b>Best practices:</b> Clean architecture, design patterns<br>
-📚 <b>Current studies:</b> Java and Angular ecosystem<br>
+📚 <b>Current studies:</b> Backend with laravel<br>
 
 
 <div align="center">
 
   <b>Main Technologies</b><br><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,python,angular,postgres,docker,linux,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,laravel,python,vuejs,postgres,docker,linux,git)](https://skillicons.dev)
 
 </div>
 
