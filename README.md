@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Full Stack Developer</h3>
+  <h3>Backend Developer</h3>
 </div>
 
 
@@ -7,14 +7,14 @@
 🚀 <b>Focus:</b> Scalable and secure web applications<br>
 💡 <b>Stack:</b> Backend development focus<br>
 🔒 <b>Best practices:</b> Clean architecture, design patterns<br>
-📚 <b>Current studies:</b> Backend with laravel<br>
+📚 <b>Current studies:</b> Backend with .net<br>
 
 
 <div align="center">
 
   <b>Main Technologies</b><br><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=php,laravel,python,vuejs,postgres,docker,linux,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,react,postgres,docker,linux,git)](https://skillicons.dev)
 
 </div>
 
