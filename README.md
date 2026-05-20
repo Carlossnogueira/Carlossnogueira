@@ -1,15 +1,14 @@
 <div align="center">
-  <h2>Backend Developer focused on Web Applications & Security</h2>
+  <h2>Backend Developer</h2>
 </div>
 
 <br>
 
 🎓 <b>Education:</b> Systems Analysis and Development<br>
-🧠 <b>Main focus:</b> Backend engineering, Linux and web security<br>
+🧠 <b>Main focus:</b> Backend engineering<br>
 🚀 <b>Currently building:</b> APIs, authentication systems and scalable backend applications<br>
-🔒 <b>Security interests:</b> Web vulnerabilities, networking, pentesting and secure application design<br>
-⚙️ <b>Tech interests:</b> Performance, architecture, automation and low-level concepts<br>
-📚 <b>Currently studying:</b> .NET, PostgreSQL, Linux, Python scripting and web security fundamentals<br>
+⚙️ <b>Tech interests:</b> Performance, architecture, automation<br>
+📚 <b>Currently studying:</b> .NET, Angular, PostgreSQL, Linux and Software architecture<br>
 
 <br>
 
@@ -17,7 +16,7 @@
 
 <b>Main Technologies:</b><br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,js,c,postgres,docker,linux,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,angular,ts,postgres,docker,linux,git)](https://skillicons.dev)
 
 </div>
 
@@ -27,7 +26,7 @@
 
 <b>Currently exploring:</b><br><br>
 
-Backend Architecture • Linux • Networking • Web Security • IA 
+Backend Architecture • Angular • IA 
 
 </div>
 
