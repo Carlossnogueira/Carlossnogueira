@@ -1,44 +1,37 @@
-<div align="center">
-  <h2>Backend Developer</h2>
-</div>
+## Developer Fullstack
 
 <br>
 
-🎓 <b>Education:</b> Systems Analysis and Development<br>
-🧠 <b>Main focus:</b> Backend engineering<br>
-🚀 <b>Currently building:</b> APIs, authentication systems and scalable backend applications<br>
-⚙️ <b>Tech interests:</b> Performance, architecture, automation<br>
-📚 <b>Currently studying:</b> .NET, Angular, PostgreSQL, Linux and Software architecture<br>
+Systems Analysis and Development student focused on backend engineering, building APIs and scalable applications while studying Python, PostgreSQL, Linux, React and software architecture. Interested in performance, automation and backend system design.
 
 <br>
 
-<div align="center">
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=Carlossnogueira&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
 
-<b>Main Technologies:</b><br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,angular,ts,postgres,docker,linux,git)](https://skillicons.dev)
-
-</div>
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=Carlossnogueira&theme=github_dark&layout=compact" />
+</a>
 
 <br>
 
-<div align="center">
+## Main Technologies ⚙️
 
-<b>Currently exploring:</b><br><br>
+[![My Skills](https://skillicons.dev/icons?i=fastapi,python,react,cpp,postgres,docker,linux,git)](https://skillicons.dev)
 
-Backend Architecture • Angular • IA 
+## Here Are Some Projects 🏗
 
-</div>
+* 📳  [**Help Desk Api**](https://github.com/Carlossnogueira/helpdesk)
+  * A technical support (help desk) system developed with Spring Boot 4 and Java 17, which centralizes and organizes internal requests. 
 
+<br>
 
-<div align="center">
+<b>Contact:</b><br><br>
+<a href="https://www.linkedin.com/in/carlos-s-nogueira/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Carlossnogueira" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <b>Contact:</b><br><br>
-  <a href="https://www.linkedin.com/in/carlos-s-nogueira/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Carlossnogueira" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
