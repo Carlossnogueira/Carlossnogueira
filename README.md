@@ -2,7 +2,7 @@
 
 <br>
 
-Systems Analysis and Development student focused on backend engineering, building APIs and scalable applications while studying Python, PostgreSQL, Linux, React and software architecture. Interested in performance, automation and backend system design.
+Systems Analysis and Development student focused on backend engineering, building APIs and scalable applications while studying Csharp, TypeScript, PostgreSQL, Linux, React and software architecture. Interested in performance, automation and backend system design.
 
 <br>
 
@@ -18,7 +18,7 @@ Systems Analysis and Development student focused on backend engineering, buildin
 
 ## Main Technologies ⚙️
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,python,react,cpp,postgres,docker,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nest,dotnet,react,cpp,postgres,docker,linux,git)](https://skillicons.dev)
 
 ## Here Are Some Projects 🏗
 
