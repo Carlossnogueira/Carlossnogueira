@@ -18,7 +18,7 @@ Systems Analysis and Development student focused on backend engineering, buildin
 
 ## Main Technologies ⚙️
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,angular,postgres,docker,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,bootstrap,angular,docker,linux,git)](https://skillicons.dev)
 
 ## Here Are Some Projects 🏗
 
